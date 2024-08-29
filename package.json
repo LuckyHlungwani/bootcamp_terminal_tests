@@ -1,7 +1,7 @@
 {
   "name": "bootcamp-terminal-tests",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "greet.js",
   "type": "module",
   "license": "AGPL-version-3.0",
   "private": false,
@@ -19,7 +19,6 @@
   "author": "",
   "contributors": [],
   "scripts": {
-    "start": "npm test",
     "test": "mocha"
   },
   "dependencies": {
